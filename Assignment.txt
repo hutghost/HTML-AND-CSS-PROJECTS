@@ -4,12 +4,12 @@
 	<meta charset=“UTF-8”>
 	<title> Fall in Tennessee</title>
 </head>
-<body> <main>
 <nav>
 	<a href="Assignment.html">Home</a>
 	<a href="Dog.html">Dog Picture</a>
 	<a href="Dog_video.html">Dog Video</a>
 </nav>
+<body> <main>
 	<h1>Fall in Tennessee</h1>
 	<p>F Scott Fitzgerald on fall:</p>
 	<blockquote cite="https://www.watershedcabins.com/post/8-cool-crisp-autumn-quotes-nc-smoky-mountain-vacation/">
