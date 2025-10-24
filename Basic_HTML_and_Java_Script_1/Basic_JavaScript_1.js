@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Basic JavaScript 1</title>
-</head>
-<html>
-<script>
-alert("Welcome to Basic JavaScript 1 by Quentin Shelton.");
-</script>
-</html>
+function My_First_Function()	{
+	var String = "Kiss me, I'm Irish!";
+	var result = String.fontcolor("green");
+	document.getElementById("Irish").innerHTML =
+	result;
+	}
