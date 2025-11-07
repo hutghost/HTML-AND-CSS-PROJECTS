@@ -1,0 +1,23 @@
+h1 {
+	background-color: DarkOrchid;
+	color: Cyan;
+	text-size: extra large;
+	text-alignment: center;
+}
+table {
+	border: 3px solid silver;
+}	
+td:hover {
+	background-color: yellow;
+	color: black;
+}
+tr, th {
+	background-color: DarkOrchid;
+	color: Cyan;
+	text-size: extra large;
+}
+tr, td {
+	background-color: DarkGray;
+	color: Cyan;
+	text-size: large;
+}
