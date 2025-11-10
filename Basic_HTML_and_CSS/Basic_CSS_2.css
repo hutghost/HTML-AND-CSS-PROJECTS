@@ -1,20 +1,20 @@
 h1 {
 	text-shadow: 4px 4px #00ff00;
-	background-color: darkgray
-	color: Red
-	size: large
-	font: TimesNewRoman
+	background-color: darkgray;
+	color: Red;
+	size: large;
+	font: TimesNewRoman;
 }
 p1 {
 	text-shadow: 2px 2px #ff0000;
-	background: darkgray
-	color: White
-	size: medium
-	font: TimesNewRoman
+	background-color: darkgray;
+	color: White;
+	size: medium;
+	font: TimesNewRoman;
 }
 p2 {
 	color: Maroon;
-	background: CornflowerBlue;
-	font-size: Extra large;
+	background-color: CornflowerBlue;
+	font-size: Extra-large;
 	text-align: center;
 }
